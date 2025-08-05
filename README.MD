@@ -11,6 +11,7 @@ In this project we will focus on distilling BERT on both the pretraining and fin
 •	MRPC for paraphrase detection (sentence similarity task)
 •	MNLI for natural language inference (NLI task)
 
+```
 configs/
 ├── general/
 │   └── tinybert_general_pretrain.yaml
@@ -18,6 +19,7 @@ configs/
 │   ├── sst2_distill.yaml
 │   ├── mnli_distill.yaml
 │   └── rte_distill.yaml
+```
 
 
 
