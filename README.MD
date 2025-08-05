@@ -14,11 +14,11 @@ In this project we will focus on distilling BERT on both the pretraining and fin
 ```
 configs/
 ├── general/
-│   └── tinybert_general_pretrain.yaml
+│   └── general_distillation.yaml
 ├── task_specific/
-│   ├── sst2_distill.yaml
-│   ├── mnli_distill.yaml
-│   └── rte_distill.yaml
+│   ├── sst2.yaml
+│   ├── mnli.yaml
+│   └── mrpc.yaml
 ```
 
 
